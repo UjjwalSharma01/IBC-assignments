@@ -12,8 +12,8 @@ fn main() {
     
     students.push(Student {
         name: String::from("xyz"),
-        email: String::from("john@example.com"),
-        phone: String::from("123-456-7890"),
+        email: String::from("xyz@example.com"),
+        phone: String::from("123"),
         id: 1,
     });
 
